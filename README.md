@@ -1,7 +1,7 @@
 # OSTEPAnnotated
 Repository with annotated versions of the OSTEP book required for OSC.
 Just to let you know, not all of the annotated content is examinable (presumably, anything mentioned IN the video is examinable).
-If you are using the annotated chapters to study, I suggest using the following steps:
+If you are using the annotated chapters to study, I suggest using the following method:
   1. Read the chapter associated with Stephen's video. (Stephen shows what chapter the video covers at the beginning of every video).
   2. Watch the video and take notes using whatever notetaking/study technique you prefer.
 
