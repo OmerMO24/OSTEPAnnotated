@@ -17,4 +17,4 @@ I will aim to have the week's chapters fully annotated by Saturday night so that
 
 
 If anyone needs any help or questions, then just let me know/contact me.
-*** ***. 
+**** ****. 
